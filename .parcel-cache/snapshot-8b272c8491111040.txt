@@ -35,7 +35,7 @@
 84C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\sucrase\dist\esm\parser133654151542492806 1
 96C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\htmlparser2\lib\WritableStream.d.ts133653622758395195 0
 106C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\react-spinners\umd\helpers\unitConverter.d.ts133653623786613681 0
-52C:\Users\User\OneDrive\Desktop\react\HealthCare\dist133654157053272844 1
+52C:\Users\User\OneDrive\Desktop\react\HealthCare\dist133654188714265400 1
 109C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\react\cjs\react-jsx-dev-runtime.profiling.min.js133653623441579307 0
 91C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\swiper\modules\effect-flip.mjs133653624352938116 0
 99C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\css-tree\cjs\syntax\node\Condition.cjs133653622023812425 0
@@ -275,7 +275,7 @@
 104C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\yaml\browser\dist\schema\yaml-1.1\binary.js133653624860501213 0
 84C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\signal-exit\LICENSE.txt133653623956735080 0
 87C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\yaml\dist\test-events.d.ts133653624881299080 0
-77C:\Users\User\OneDrive\Desktop\react\HealthCare\src\Components\HeroSection.js133653624996352602 0
+77C:\Users\User\OneDrive\Desktop\react\HealthCare\src\Components\HeroSection.js133654188681788295 0
 121C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\060-contribute.md133653622697400543 0
 108C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\tailwindcss\types\generated\corePluginList.d.ts133653624679936329 0
 79C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\utility-types\dist133654151635000091 1
@@ -443,7 +443,7 @@
 102C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\tailwindcss\src\lib\expandApplyAtRules.js133653624610101099 0
 102C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\yaml\browser\dist\schema\yaml-1.1\omap.js133653624863817027 0
 94C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\tailwindcss\scripts\type-utils.js133653624587756005 0
-77C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\cardiology.f428a574.webp133654157049871065 0
+77C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\cardiology.f428a574.webp133654188709979486 0
 143C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeUselessStrokeAndFill.js133653619574716631 0
 80C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\tslib\tslib.es6.mjs133653624718086337 0
 88C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\postcss-load-config\LICENSE133653623343684491 0
@@ -5155,7 +5155,7 @@
 104C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\caniuse-lite\data\features\trusted-types.js133653621198061337 0
 90C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\ordered-binary\dist\index.cjs133653623227324896 0
 119C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\csso\node_modules\css-tree\cjs\syntax\node\index-parse.cjs133653621638154971 0
-74C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\index.4d6bcbeb.js.map133654157053252866 0
+74C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\index.4d6bcbeb.js.map133654188713686455 0
 97C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\ordered-binary\assets\powers-dre.png133653623226362402 0
 99C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\ordered-binary\.nyc_output\processinfo133654151416243124 1
 114C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\@swc\helpers\cjs\_object_without_properties_loose.cjs133653620437259320 0
@@ -5861,7 +5861,7 @@
 77C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\hasown\.eslintrc133653622667543253 0
 75C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\hasown\.github133654151326875890 1
 80C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\hasown\CHANGELOG.md133653622668946226 0
-70C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\index.4d6bcbeb.js133654157053101401 0
+70C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\index.4d6bcbeb.js133654188713396076 0
 81C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\hasown\tsconfig.json133653622672886168 0
 82C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\has-flag\package.json133653622665953781 0
 93C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\@parcel\packager-js\package.json133653619843881383 0
@@ -7884,7 +7884,7 @@
 96C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\caniuse-lite\data\features\xhtml.js133653621247889228 0
 82C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\camelcase-css\license133653620817739562 0
 79C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\callsites\index.js133653620813246010 0
-63C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\index.html133654157049931580 0
+63C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\index.html133654188710762387 0
 78C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\buffer\index.d.ts133653620808580861 0
 76C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\buffer\index.js133653620809691706 0
 75C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\buffer\LICENSE133653620810281377 0
@@ -8166,7 +8166,7 @@
 109C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\@swc\helpers\_\_non_iterable_spread\package.json133653620353019994 0
 110C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\@parcel\source-map\dist\wasm-bindings-web.js.flow133653620026655114 0
 105C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\@swc\helpers\_\_new_arrow_check\package.json133653620350988296 0
-76C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\dentistry.18ff4583.webp133654157049633130 0
+76C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\dentistry.18ff4583.webp133654188710879568 0
 93C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\@swc\helpers\_\_jsx\package.json133653620349891877 0
 107C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\@swc\helpers\_\_iterable_to_array\package.json133653620347245308 0
 117C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\@swc\helpers\_\_is_native_reflect_construct\package.json133653620346322709 0
@@ -9099,7 +9099,7 @@
 125C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\dist\csstree.js133653619393701455 0
 129C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\dist\csstree.min.js133653619395005356 0
 123C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\data\index.js133653619392150655 0
-81C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\cardioThoracic.e048ee87.webp133654157051596981 0
+81C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\cardioThoracic.e048ee87.webp133654188711722383 0
 119C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\LICENSE133653619362685900 0
 124C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\package.json133653619363445903 0
 121C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\README.md133653619364177257 0
@@ -9565,13 +9565,13 @@
 92C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\.bin\update-browserslist-db.ps1133653618889378864 0
 74C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\.bin\yaml.cmd133653618890628926 0
 74C:\Users\User\OneDrive\Desktop\react\HealthCare\node_modules\.bin\yaml.ps1133653618891389569 0
-72C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\bghero.6f03c1e2.png133654157049718343 0
-77C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\defaulticon.6495ebed.png133654157051676927 0
-73C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\gastro.42d31442.webp133654157049576242 0
-71C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\hero2.7aa3d1de.svg133654157049931580 0
-71C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\hero3.de99708a.svg133654157053087388 0
-71C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\index.9e4c6fd2.css133654157051747016 0
-75C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\index.9e4c6fd2.css.map133654157051825367 0
-76C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\nephrology.f4596f3f.jpg133654157049931580 0
-76C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\scoliosis.5e064cae.webp133654157049871065 0
-89C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\undraw_doctors_p6aq (1).e37ca673.svg133654157049633130 0
+76C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\scoliosis.5e064cae.webp133654188709863749 0
+76C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\nephrology.f4596f3f.jpg133654188709969330 0
+71C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\hero2.7aa3d1de.svg133654188710762387 0
+73C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\gastro.42d31442.webp133654188710899538 0
+72C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\bghero.6f03c1e2.png133654188710919541 0
+89C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\undraw_doctors_p6aq (1).e37ca673.svg133654188711787989 0
+77C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\defaulticon.6495ebed.png133654188711787989 0
+71C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\hero3.de99708a.svg133654188713928381 0
+71C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\index.9e4c6fd2.css133654188713983779 0
+75C:\Users\User\OneDrive\Desktop\react\HealthCare\dist\index.9e4c6fd2.css.map133654188714230193 0

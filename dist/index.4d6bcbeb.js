@@ -39974,7 +39974,7 @@ const HeroSection = ()=>{
                 children: "Toggle Dark Mode"
             }, void 0, false, {
                 fileName: "src/Components/HeroSection.js",
-                lineNumber: 31,
+                lineNumber: 28,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -39993,14 +39993,14 @@ const HeroSection = ()=>{
                                             children: "MedHelp"
                                         }, void 0, false, {
                                             fileName: "src/Components/HeroSection.js",
-                                            lineNumber: 42,
+                                            lineNumber: 39,
                                             columnNumber: 15
                                         }, undefined),
                                         '- "One stop care for you and loved ones"'
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/Components/HeroSection.js",
-                                    lineNumber: 41,
+                                    lineNumber: 38,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -40008,7 +40008,7 @@ const HeroSection = ()=>{
                                     children: "Experience top-tier medical care and personalized attention at our state-of-the-art hospital. Trust us for your health needs, where advanced technology meets compassionate care."
                                 }, void 0, false, {
                                     fileName: "src/Components/HeroSection.js",
-                                    lineNumber: 45,
+                                    lineNumber: 42,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -40018,23 +40018,23 @@ const HeroSection = ()=>{
                                         children: "Book Appointment"
                                     }, void 0, false, {
                                         fileName: "src/Components/HeroSection.js",
-                                        lineNumber: 49,
+                                        lineNumber: 48,
                                         columnNumber: 15
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/Components/HeroSection.js",
-                                    lineNumber: 48,
+                                    lineNumber: 47,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/Components/HeroSection.js",
-                            lineNumber: 40,
+                            lineNumber: 37,
                             columnNumber: 11
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/Components/HeroSection.js",
-                        lineNumber: 39,
+                        lineNumber: 36,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40045,18 +40045,18 @@ const HeroSection = ()=>{
                             alt: "hero"
                         }, void 0, false, {
                             fileName: "src/Components/HeroSection.js",
-                            lineNumber: 59,
+                            lineNumber: 58,
                             columnNumber: 11
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/Components/HeroSection.js",
-                        lineNumber: 58,
+                        lineNumber: 57,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/Components/HeroSection.js",
-                lineNumber: 38,
+                lineNumber: 35,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40067,7 +40067,7 @@ const HeroSection = ()=>{
                         children: "Facilities We Provide with Care"
                     }, void 0, false, {
                         fileName: "src/Components/HeroSection.js",
-                        lineNumber: 63,
+                        lineNumber: 62,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40082,12 +40082,12 @@ const HeroSection = ()=>{
                                             alt: "gastro"
                                         }, void 0, false, {
                                             fileName: "src/Components/HeroSection.js",
-                                            lineNumber: 69,
+                                            lineNumber: 68,
                                             columnNumber: 15
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/Components/HeroSection.js",
-                                        lineNumber: 68,
+                                        lineNumber: 67,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40102,91 +40102,118 @@ const HeroSection = ()=>{
                                                         children: "NEW"
                                                     }, void 0, false, {
                                                         fileName: "src/Components/HeroSection.js",
-                                                        lineNumber: 74,
+                                                        lineNumber: 73,
                                                         columnNumber: 17
                                                     }, undefined)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/Components/HeroSection.js",
-                                                lineNumber: 72,
+                                                lineNumber: 71,
                                                 columnNumber: 15
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                                                 className: "text-x1",
-                                                children: "Gastroenterology focuses on the digestive system, addressing conditions like acid reflux, ulcers and care for gastrointestinal health. "
-                                            }, void 0, false, {
+                                                children: [
+                                                    "Gastroenterology focuses on the digestive system, addressing conditions like acid reflux, ulcers and care for gastrointestinal health.",
+                                                    " "
+                                                ]
+                                            }, void 0, true, {
                                                 fileName: "src/Components/HeroSection.js",
-                                                lineNumber: 76,
+                                                lineNumber: 75,
                                                 columnNumber: 15
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/Components/HeroSection.js",
-                                        lineNumber: 71,
+                                        lineNumber: 70,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/Components/HeroSection.js",
-                                lineNumber: 67,
+                                lineNumber: 66,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                className: "card w-full md:w-96 bg-base-100 shadow-xl",
+                                class: "card bg-base-100 w-96 shadow-xl",
                                 children: [
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("figure", {
                                         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                                            src: (0, _scoliosisWebpDefault.default),
-                                            alt: "Scoliosis"
+                                            src: "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg",
+                                            alt: "Shoes"
                                         }, void 0, false, {
                                             fileName: "src/Components/HeroSection.js",
-                                            lineNumber: 82,
+                                            lineNumber: 84,
                                             columnNumber: 15
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/Components/HeroSection.js",
-                                        lineNumber: 81,
+                                        lineNumber: 83,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                        className: "card-body",
+                                        class: "card-body",
                                         children: [
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
-                                                className: "card-title",
+                                                class: "card-title",
                                                 children: [
-                                                    "Scoliosis",
+                                                    "Shoes!",
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                                        className: "badge badge-secondary",
+                                                        class: "badge badge-secondary",
                                                         children: "NEW"
                                                     }, void 0, false, {
                                                         fileName: "src/Components/HeroSection.js",
-                                                        lineNumber: 87,
+                                                        lineNumber: 92,
                                                         columnNumber: 17
                                                     }, undefined)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/Components/HeroSection.js",
-                                                lineNumber: 85,
+                                                lineNumber: 90,
                                                 columnNumber: 15
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                                                className: "text-x1",
-                                                children: "Scoliosis involves an abnormal curvature of the spine, with treatments including observation, bracing, and surgery. "
+                                                children: "If a dog chews shoes whose shoes does he choose?"
                                             }, void 0, false, {
                                                 fileName: "src/Components/HeroSection.js",
-                                                lineNumber: 89,
+                                                lineNumber: 94,
+                                                columnNumber: 15
+                                            }, undefined),
+                                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                                class: "card-actions justify-end",
+                                                children: [
+                                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                                        class: "badge badge-outline",
+                                                        children: "Fashion"
+                                                    }, void 0, false, {
+                                                        fileName: "src/Components/HeroSection.js",
+                                                        lineNumber: 96,
+                                                        columnNumber: 17
+                                                    }, undefined),
+                                                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                                                        class: "badge badge-outline",
+                                                        children: "Products"
+                                                    }, void 0, false, {
+                                                        fileName: "src/Components/HeroSection.js",
+                                                        lineNumber: 97,
+                                                        columnNumber: 17
+                                                    }, undefined)
+                                                ]
+                                            }, void 0, true, {
+                                                fileName: "src/Components/HeroSection.js",
+                                                lineNumber: 95,
                                                 columnNumber: 15
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/Components/HeroSection.js",
-                                        lineNumber: 84,
+                                        lineNumber: 89,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/Components/HeroSection.js",
-                                lineNumber: 80,
+                                lineNumber: 82,
                                 columnNumber: 11
                             }, undefined),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40198,12 +40225,12 @@ const HeroSection = ()=>{
                                             alt: "eyeLaser"
                                         }, void 0, false, {
                                             fileName: "src/Components/HeroSection.js",
-                                            lineNumber: 95,
+                                            lineNumber: 103,
                                             columnNumber: 15
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/Components/HeroSection.js",
-                                        lineNumber: 94,
+                                        lineNumber: 102,
                                         columnNumber: 13
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40218,13 +40245,13 @@ const HeroSection = ()=>{
                                                         children: "NEW"
                                                     }, void 0, false, {
                                                         fileName: "src/Components/HeroSection.js",
-                                                        lineNumber: 100,
+                                                        lineNumber: 108,
                                                         columnNumber: 17
                                                     }, undefined)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "src/Components/HeroSection.js",
-                                                lineNumber: 98,
+                                                lineNumber: 106,
                                                 columnNumber: 15
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -40232,31 +40259,31 @@ const HeroSection = ()=>{
                                                 children: "Eye laser treatment corrects vision problems such as myopia, hyperopia, and astigmatism,reshaping the cornea to improve eye health."
                                             }, void 0, false, {
                                                 fileName: "src/Components/HeroSection.js",
-                                                lineNumber: 102,
+                                                lineNumber: 110,
                                                 columnNumber: 15
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/Components/HeroSection.js",
-                                        lineNumber: 97,
+                                        lineNumber: 105,
                                         columnNumber: 13
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/Components/HeroSection.js",
-                                lineNumber: 93,
+                                lineNumber: 101,
                                 columnNumber: 11
                             }, undefined)
                         ]
                     }, void 0, true, {
                         fileName: "src/Components/HeroSection.js",
-                        lineNumber: 66,
+                        lineNumber: 65,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/Components/HeroSection.js",
-                lineNumber: 62,
+                lineNumber: 61,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
@@ -40264,7 +40291,7 @@ const HeroSection = ()=>{
                 children: "Sign Up to Book Appointment"
             }, void 0, false, {
                 fileName: "src/Components/HeroSection.js",
-                lineNumber: 109,
+                lineNumber: 120,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40277,7 +40304,7 @@ const HeroSection = ()=>{
                             alt: "hero2"
                         }, void 0, false, {
                             fileName: "src/Components/HeroSection.js",
-                            lineNumber: 114,
+                            lineNumber: 125,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40295,12 +40322,12 @@ const HeroSection = ()=>{
                                                     children: "Email"
                                                 }, void 0, false, {
                                                     fileName: "src/Components/HeroSection.js",
-                                                    lineNumber: 119,
+                                                    lineNumber: 130,
                                                     columnNumber: 19
                                                 }, undefined)
                                             }, void 0, false, {
                                                 fileName: "src/Components/HeroSection.js",
-                                                lineNumber: 118,
+                                                lineNumber: 129,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("input", {
@@ -40310,13 +40337,13 @@ const HeroSection = ()=>{
                                                 required: true
                                             }, void 0, false, {
                                                 fileName: "src/Components/HeroSection.js",
-                                                lineNumber: 121,
+                                                lineNumber: 132,
                                                 columnNumber: 17
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/Components/HeroSection.js",
-                                        lineNumber: 117,
+                                        lineNumber: 128,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40329,12 +40356,12 @@ const HeroSection = ()=>{
                                                     children: "Password"
                                                 }, void 0, false, {
                                                     fileName: "src/Components/HeroSection.js",
-                                                    lineNumber: 130,
+                                                    lineNumber: 141,
                                                     columnNumber: 19
                                                 }, undefined)
                                             }, void 0, false, {
                                                 fileName: "src/Components/HeroSection.js",
-                                                lineNumber: 129,
+                                                lineNumber: 140,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("input", {
@@ -40344,7 +40371,7 @@ const HeroSection = ()=>{
                                                 required: true
                                             }, void 0, false, {
                                                 fileName: "src/Components/HeroSection.js",
-                                                lineNumber: 132,
+                                                lineNumber: 143,
                                                 columnNumber: 17
                                             }, undefined),
                                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("label", {
@@ -40355,18 +40382,18 @@ const HeroSection = ()=>{
                                                     children: "Forgot password?"
                                                 }, void 0, false, {
                                                     fileName: "src/Components/HeroSection.js",
-                                                    lineNumber: 139,
+                                                    lineNumber: 150,
                                                     columnNumber: 19
                                                 }, undefined)
                                             }, void 0, false, {
                                                 fileName: "src/Components/HeroSection.js",
-                                                lineNumber: 138,
+                                                lineNumber: 149,
                                                 columnNumber: 17
                                             }, undefined)
                                         ]
                                     }, void 0, true, {
                                         fileName: "src/Components/HeroSection.js",
-                                        lineNumber: 128,
+                                        lineNumber: 139,
                                         columnNumber: 15
                                     }, undefined),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40376,34 +40403,34 @@ const HeroSection = ()=>{
                                             children: "Book Appointment"
                                         }, void 0, false, {
                                             fileName: "src/Components/HeroSection.js",
-                                            lineNumber: 148,
+                                            lineNumber: 159,
                                             columnNumber: 17
                                         }, undefined)
                                     }, void 0, false, {
                                         fileName: "src/Components/HeroSection.js",
-                                        lineNumber: 147,
+                                        lineNumber: 158,
                                         columnNumber: 15
                                     }, undefined)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/Components/HeroSection.js",
-                                lineNumber: 116,
+                                lineNumber: 127,
                                 columnNumber: 13
                             }, undefined)
                         }, void 0, false, {
                             fileName: "src/Components/HeroSection.js",
-                            lineNumber: 115,
+                            lineNumber: 126,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/Components/HeroSection.js",
-                    lineNumber: 113,
+                    lineNumber: 124,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/Components/HeroSection.js",
-                lineNumber: 112,
+                lineNumber: 123,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40416,7 +40443,7 @@ const HeroSection = ()=>{
                             alt: "hero3"
                         }, void 0, false, {
                             fileName: "src/Components/HeroSection.js",
-                            lineNumber: 156,
+                            lineNumber: 167,
                             columnNumber: 11
                         }, undefined),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40426,7 +40453,7 @@ const HeroSection = ()=>{
                                     children: "We Always Ensure The Best Treatment With Care"
                                 }, void 0, false, {
                                     fileName: "src/Components/HeroSection.js",
-                                    lineNumber: 158,
+                                    lineNumber: 169,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -40435,37 +40462,37 @@ const HeroSection = ()=>{
                                         "Modern Clinic",
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                             fileName: "src/Components/HeroSection.js",
-                                            lineNumber: 163,
+                                            lineNumber: 174,
                                             columnNumber: 15
                                         }, undefined),
                                         "Professional Treatment",
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                             fileName: "src/Components/HeroSection.js",
-                                            lineNumber: 165,
+                                            lineNumber: 176,
                                             columnNumber: 15
                                         }, undefined),
                                         "Discount on Medical Treatment"
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/Components/HeroSection.js",
-                                    lineNumber: 161,
+                                    lineNumber: 172,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/Components/HeroSection.js",
-                            lineNumber: 157,
+                            lineNumber: 168,
                             columnNumber: 11
                         }, undefined)
                     ]
                 }, void 0, true, {
                     fileName: "src/Components/HeroSection.js",
-                    lineNumber: 155,
+                    lineNumber: 166,
                     columnNumber: 9
                 }, undefined)
             }, void 0, false, {
                 fileName: "src/Components/HeroSection.js",
-                lineNumber: 154,
+                lineNumber: 165,
                 columnNumber: 7
             }, undefined)
         ]
