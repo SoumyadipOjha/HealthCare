@@ -65,7 +65,7 @@ const HeaderComponent = () => {
         <Link to={"/services"}>Services</Link>
       </li>
       <li>
-        <Link to={"/posts"}>Records</Link>
+        <Link to={"/myposts"}>My Appointments</Link>
       </li>
       <li>
         <Link to={"/contact"}>Contact</Link>
@@ -112,15 +112,14 @@ const HeaderComponent = () => {
               </ul>
             </div>
             <Link to={"/"} className="btn btn-ghost text-xl">
-  MedHelp
-</Link>
-
+              MedHelp
+            </Link>
           </div>
           <div className="navbar-end space-x-3">
             <div className="navbar-center hidden lg:flex">
               <ul className="menu menu-horizontal px-1">{navItems}</ul>
             </div>
-            
+
             <label className="swap swap-rotate">
               <input
                 type="checkbox"
