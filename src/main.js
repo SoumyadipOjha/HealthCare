@@ -1,4 +1,4 @@
-import App from "./app";
+import App from "./App";
 import { createContext, useState } from "react";
 import ReactDOM from "react-dom/client";
 
