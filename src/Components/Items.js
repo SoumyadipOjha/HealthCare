@@ -13,7 +13,8 @@ const Items = ({ props, userid }) => {
   const handleDelete = async (itemId) => {
     try {
       const { data } = await axios.delete(
-        "https://unicycle-backend.onrender.com/api/v1/post/delete/" + itemId,
+        "https://healthcare-backend-sjtm.onrender.com/api/v1/post/delete/" +
+          itemId,
         {
           withCredentials: true,
         }
