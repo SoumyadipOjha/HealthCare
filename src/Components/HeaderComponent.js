@@ -62,10 +62,10 @@ const HeaderComponent = () => {
         <Link to={"/"}>Home</Link>
       </li>
       <li>
-        <Link to={"/posts"}>Records</Link>
+        <Link to={"/services"}>Services</Link>
       </li>
       <li>
-        <Link to={"/services"}>Services</Link>
+        <Link to={"/posts"}>Records</Link>
       </li>
       <li>
         <Link to={"/contact"}>Contact</Link>
@@ -112,8 +112,9 @@ const HeaderComponent = () => {
               </ul>
             </div>
             <Link to={"/"} className="btn btn-ghost text-xl">
-              MedHelp
-            </Link>
+  MedHelp
+</Link>
+
           </div>
           <div className="navbar-end space-x-3">
             <div className="navbar-center hidden lg:flex">
