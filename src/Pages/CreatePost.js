@@ -62,7 +62,7 @@ const CreatePost = () => {
 
     try {
       const { data } = await axios.post(
-        "http://localhost:3000/api/v1/post/post",
+        "https://healthcare-backend-sjtm.onrender.com/api/v1/post/post",
         formData,
         {
           headers: { "Content-Type": "multipart/form-data" },
