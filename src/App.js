@@ -24,7 +24,7 @@ const AppLayout = () => {
     const fetchUser = async () => {
       try {
         const { data } = await axios.get(
-          "https://unicycle-backend.onrender.com/api/v1/user/getmyprofile",
+          "https://healthcare-backend-sjtm.onrender.com/api/v1/user/getmyprofile",
           {
             withCredentials: true,
           }
@@ -41,7 +41,7 @@ const AppLayout = () => {
     const fetchPost = async () => {
       try {
         const { data } = await axios.get(
-          "https://unicycle-backend.onrender.com/api/v1/post/posts",
+          "https://healthcare-backend-sjtm.onrender.com/api/v1/post/posts",
           {
             withCredentials: true,
           }
