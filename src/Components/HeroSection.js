@@ -60,7 +60,7 @@ const HeroSection = () => {
         </div>
       </div>
       <div className="container mx-auto px-4 mb-10 pb-3">
-        <h1 className="text-3xl md:text-4xl font-bold text-center pb-3 mb-8 mt-8 text-blue-800">
+        <h1 className="text-3xl md:text-4xl font-bold text-center pb-3 mb-8 mt-8 text-pink-500 ">
           Facilities We Provide with Care
         </h1>
         <div className="grid gap-4 xs:gap-6 sm:gap-8 xs:grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
@@ -111,7 +111,7 @@ const HeroSection = () => {
 
       </div>
 
-      <h1 className="text-4xl font-bold text-center pb-3 mb-8 mt-8 text-blue-800">
+      <h1 className="text-4xl font-bold text-center pb-3 mb-8 mt-8 text-pink-500">
   Sign Up to Book Appointment
 </h1>
 <div className="hero min-h-screen bg-white dark:bg-base-200">
@@ -143,14 +143,14 @@ const HeroSection = () => {
           <label className="label">
             <Link
               to={"/resetPassword"}
-              className="label-text-alt link link-hover text-blue-600 dark:text-blue-400"
+              className="label-text-alt link link-hover text-gray-900"
             >
               Forgot password?
             </Link>
           </label>
         </div>
         <div className="form-control mt-6">
-          <button className="btn btn-primary">Book Appointment</button>
+          <button className="btn bg-pink-500 text-white" >Book Appointment</button>
         </div>
       </form>
     </div>

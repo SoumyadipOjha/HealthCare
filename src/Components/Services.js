@@ -21,21 +21,23 @@ const Services = () => {
   return (
     <>
       <HeaderComponent />
+      
       <div className="hero min-h-screen bg-white dark:bg-base-200 text-gray-900 dark:text-blue-400">
-        <div className="hero-content flex-col lg:flex-row">
+        <div className="hero-content flex-col lg:flex-row ">
           <img src={haha} alt="Healthcare Illustration" />
           <div>
             <h1 className="text-5xl font-bold">Best Care For Close Ones!</h1>
             <p className="py-6 text-3xl text-gray-700 dark:text-gray-400">
               Our hospital provides emergency care, advanced surgeries, specialized treatments, and comprehensive diagnostic services, including imaging and laboratory tests, ensuring high-quality healthcare tailored to our patients' needs.
             </p>
-            <button className="btn btn-primary color-blue-400">
+            <button className="btn btn-primary bg-pink-500 text-white ">
               Get Started
             </button>
           </div>
         </div>
       </div>
-      <div className="grid gap-8 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mb-10 mt-10">
+      <div className="dark:bg-base-200">
+      <div className="grid gap-8 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mb-10 mt-10 ">
         {[
           { img: cardiology, title: "Cardiology" },
           { img: nephrology, title: "Nephrology" },
@@ -53,7 +55,7 @@ const Services = () => {
               />
             </figure>
             <div className="p-6">
-              <h2 className="text-2xl font-bold mb-10 text-gray-900 dark:text-white">{service.title}</h2>
+              <h2 className="text-2xl font-bold mb-10 text-gray-900 dark:text-white ">{service.title}</h2>
               <button>
                 <Link to={"/createpost"} className="button rounded-md bg-pink-500 text-white px-5 py-2">
                   Book Appointment
@@ -62,10 +64,14 @@ const Services = () => {
             </div>
           </div>
         ))}
+        </div>
       </div>
-      <Footer />
+      <Footer/>
+      
+      
     </>
   );
 };
 
 export default Services;
+

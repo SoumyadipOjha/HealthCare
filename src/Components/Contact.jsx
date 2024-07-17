@@ -31,7 +31,7 @@ const Contact = () => {
                   </div>
                   <div className="form-control mt-4">
                     <label className="label">
-                      <span className="label-text text-gray-900 dark:text-gray-400">Your Email</span>
+                      <span className="label-text text-gray-900 dark:text-gray-400 bg-white-100">Your Email</span>
                     </label>
                     <input
                       type="email"

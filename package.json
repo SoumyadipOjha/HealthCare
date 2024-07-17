@@ -8,7 +8,7 @@
     "start": "parcel index.html",
     "build": "parcel build index.html"
   },
-  "author": "sujal",
+  "author": "shruti",
   "license": "ISC",
   "devDependencies": {
     "buffer": "^6.0.3",
