@@ -46,7 +46,7 @@ const SinglePost = () => {
               <div className="card-title mt-8 text-9xl">
                 <h1 className="text-4xl font-bold">{Post.title}</h1>
               </div>
-              <p className="mt-5 text-2xl">₹{Post.price}</p>
+              <p className="mt-5 text-2xl">{Post.price}</p>
               <div className="mt-8">
                 <h1>Description: </h1>
                 <p>{Post.Description}</p>
