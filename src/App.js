@@ -18,6 +18,7 @@ import UserProfile from "./Pages/Profile.js";
 import MyPosts from "./Pages/Myposts.js";
 import Services from "./Components/Services.js";
 import Contact from './Components/Contact.jsx'
+import Search from "./Pages/Search.js";
 
 const AppLayout = () => {
   const { isAuthenticated, setIsAuthenticated, user, setUser, Post, setPost } =
@@ -73,6 +74,7 @@ const AppLayout = () => {
           <Route path="/updatepost/:id" element={<UpdatePost />} />
           <Route path="/services" element={<Services />} />
           <Route path="/contact" element={<Contact/>} />
+          <Route path="/bot" element={<Search/>} />
 
         </Routes>
       </Router>

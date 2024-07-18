@@ -70,6 +70,9 @@ const HeaderComponent = () => {
       <li>
         <Link to={"/contact"}>Contact</Link>
       </li>
+      <li>
+        <Link to={"/bot"}>AI</Link>
+      </li>
     </>
   );
   return (
